@@ -39,7 +39,7 @@
 					</div>
 					<div class="col-md-4 conFooterItem">
 						<div class="col-md-12 titulo">
-								<h3>Contactenos</h3>
+								<h3>Contactenos 3</h3>
 							</div>
 							<div class="col-md-12 contenido">
 							</div>
