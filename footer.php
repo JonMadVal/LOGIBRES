@@ -24,7 +24,7 @@
 					<div class="col-md-4 conFooterItem">
 						<div class="col-md-12">
 							<div class="col-md-12 titulo">
-								<h3>Siguenos en Facebook</h3>
+								<h3>Siguenos en Facebook 1</h3>
 							</div>
 							<div class="col-md-12 contenido">
 							</div>
@@ -32,7 +32,7 @@
 					</div>
 					<div class="col-md-4 conFooterItem">
 						<div class="col-md-12 titulo">
-								<h3>Siguenos en Twitter</h3>
+								<h3>Siguenos en Twitter 2</h3>
 							</div>
 							<div class="col-md-12 contenido">
 							</div>
